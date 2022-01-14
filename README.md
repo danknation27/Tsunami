@@ -14,11 +14,7 @@ Read the documentation below to find out more</p>
 <p>Want to improve Tsunami? <a href="https://github.com/FogNetwork/Tsunami/compare">Create a pull request</a></p>
 </div>
 
-<p align="center">
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/danknation27/Tsunami)
-<a href="https://repl.it/github/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/FogNetwork/Tsunami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
-</p>
 
 ## Documentation
 
